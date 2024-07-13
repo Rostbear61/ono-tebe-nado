@@ -223,10 +223,6 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
-.card_type_film,
-.card_type_book,
-.card_type_picture{
     padding: 51px 40px 48px 40px;
     background-repeat: no-repeat;
     background-position: center center;
