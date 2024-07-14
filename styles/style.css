@@ -37,7 +37,7 @@ body{
     z-index: -1;
 }
 .lots{
-    padding: 179px 0 146px 0;
+    padding: 179px 0 145px 0;
     width: 1052px;
     margin: 0 auto;
 }
@@ -51,7 +51,7 @@ body{
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    
+    padding-bottom: 88px; 
 }
 .header__menu{
     grid-column: 1/2;
@@ -295,7 +295,7 @@ body{
     grid-column: 2/3;
     grid-row: 1/2;
     padding-top: 101px;
-    padding-left: 26px;
+    padding-left: 25px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -319,8 +319,6 @@ body{
     line-height: 120%;
     letter-spacing: 0.008em;
     color: #000;
-    
-
 }
 .about__text:last-child{
     padding-bottom: 0;
